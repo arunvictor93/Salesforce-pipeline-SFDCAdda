@@ -1,3 +1,3 @@
-public class ABC {
+publi class ABC {
 	// dfdhedhh
 }
